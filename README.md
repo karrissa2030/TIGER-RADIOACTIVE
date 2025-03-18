@@ -5,7 +5,7 @@
 
 </p>
 
-<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=darkgreen&style=for-the-badge&logo=whatsapp"></a>
+<a target="_blank" href="Http://wa.me/+254702713600?text=`I%20want%20to%20buy%20A%20BUGBOT`" target="_blank"><img title="PREMIUM SUPPORT" height="100" width="375" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/WhatsApp_logo.svg/2000px-WhatsApp_logo.svg.png"></a>
 
 <a href="https://github.com/Kingdragony/TIGER-RADIOACTIVE-V1/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
