@@ -53,7 +53,7 @@ V3 = Text
 V4 = Button
 
 */
-global.menutype = "v2"
+global.menutype = "v1"
 //=================================================//
 //Gausah Juga
 global.limitawal = {
