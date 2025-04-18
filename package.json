@@ -1,5 +1,5 @@
 { 
-   "name": "DRAGON-AI", 
+   "name": "Tiger", 
    "version": "3.0.0", 
    "description": "WhatsApp Multi Device Bot", 
    "main": "index.js", 
@@ -18,7 +18,7 @@
      "bot-md", 
      "whatsapp-multi-device" 
    ], 
-   "base": "https://github.com/DikaArdnt/Hisoka-Morou", 
+   "base": "https://github.com/Kingdragony/TIGER-RADIOACTIVE", 
    "author": "Arlodragon", 
    "license": "MIT", 
    "dependencies": { 
@@ -87,10 +87,10 @@
    }, 
    "repository": { 
      "type": "git", 
-     "url": "git+https://github.com/Kingdragony/DRAGON-AI.git" 
+     "url": "git+https://github.com/Kingdragony/TIGER-RADIOACTIVE.git" 
    }, 
    "bugs": { 
-     "url": "https://github.com/Kingdragony/DRAGON-AI/issues" 
+     "url": "https://github.com/Kingdragony/TIGER-RADIOACTIVE/issues" 
    }, 
-   "homepage": "https://github.com/Kingdragony/DRAGON-AI#readme" 
+   "homepage": "https://github.com/Kingdragony/TIGER-RADIOACTIVE#readme" 
 }
